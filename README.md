@@ -4,9 +4,9 @@ Proyecto de Clonacion de interfaz  de Google con HTML5 Y CSS3
 
 ## ÍNDICE
 
-* [✨1. Intro 🤓](https://github.com/nancynsalazar/cloninterfazgoogle#1-intro)
-* [✨2. Qué construí 🛠](https://github.com/nancynsalazar/cloninterfazgoogle#2-qu%C3%A9-constru%C3%AD)
-* [✨3. Objetivo del proyecto 🎯](https://github.com/nancynsalazar/cloninterfazgoogle#3-objetivo-del-proyecto)
+* [🔗1. Intro ☝🏻](https://github.com/nancynsalazar/cloninterfazgoogle#1-intro)
+* [🔗2. Qué construí 🛠](https://github.com/nancynsalazar/cloninterfazgoogle#2-qu%C3%A9-constru%C3%AD)
+* [🔗3. Objetivo del proyecto 📊](https://github.com/nancynsalazar/cloninterfazgoogle#3-objetivo-del-proyecto)
 
 ****
 ## 1. Intro
