@@ -1,12 +1,12 @@
 # ClondeGoogle
 Proyecto de Clonacion de interfaz  de Google con HTML5 Y CSS3 
-# Clonación de la interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO ⭐. 
+# Clonación de la interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO 🖥️. 
 
 ## ÍNDICE
 
-* [🔗1. Intro ☝🏻](https://github.com/nancynsalazar/cloninterfazgoogle#1-intro)
+* [🔗1. Intro 🖱️](https://github.com/nancynsalazar/cloninterfazgoogle#1-intro)
 * [🔗2. Qué construí 🛠](https://github.com/nancynsalazar/cloninterfazgoogle#2-qu%C3%A9-constru%C3%AD)
-* [🔗3. Objetivo del proyecto 📊](https://github.com/nancynsalazar/cloninterfazgoogle#3-objetivo-del-proyecto)
+* [🔗3. Objetivo del proyecto ✅](https://github.com/nancynsalazar/cloninterfazgoogle#3-objetivo-del-proyecto)
 
 ****
 ## 1. Intro
